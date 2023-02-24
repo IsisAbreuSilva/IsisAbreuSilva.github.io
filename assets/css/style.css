@@ -1,0 +1,17 @@
+.carousel {
+    width: 600px;
+}
+
+.nome {
+    font-size: 24pt;
+    font-weight: bold;
+}
+
+.dados {
+    font-size: 10pt;
+}
+
+main {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}

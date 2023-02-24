@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Teko&display=swap');
+
+.navbar {
+    background-color: #E86E0C !important;
+}
+
+.dropdown-menu {
+    background-color: #EC9853 !important;
+}
+
+.dropdown-item:hover{
+    background-color: #F0C29C !important;
+}
+nav a {
+    color:white!important;
+}
+
+.link-footer {
+    text-decoration: none;
+}
+
+#texto-turma{
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+}
+
+.d-flex{
+    margin-top: 10px;
+}
+
+.nav-link, .dropdown-item {
+    font-family: 'Teko', sans-serif;
+    font-size: 20px;
+}
+
+.card-title {
+    font-size: 24pt;
+    font-weight: bold;
+ }
+
+ .card-subtitle {
+    font-size: 12pt;
+ }
+
+ .card-text {
+    font-size: 16pt;
+    margin-top: 10px;
+ }
+
+ .btn-group {
+    font-size: 20pt;
+ }
+
+ .fa-twitter {
+    margin-left: 5px;
+ }
